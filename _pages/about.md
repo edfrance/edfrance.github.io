@@ -1,7 +1,12 @@
 ---
 permalink: /
+  <<<<<<< asdasd
 title: "About me"
 excerpt: "About me"
+=======
+#title: "About me"
+#excerpt: ""
+  >>>>>>> master
 author_profile: true
 redirect_from: 
   - /about/
