@@ -5,7 +5,7 @@ permalink: /publication/parcial
 excerpt: 'This project shows us some indicator like deads, infections and vacines of COVID 19 in Perú'
 date: 2021-07-15
 venue: 'Github'
-paperurl: 'https://drive.google.com/file/d/18JXrgQbXKoLrfeDR_j7S53GnJXvc3veg/view?usp=sharing'
+paperurl: 'https://github.com/edfrance/ECO224/blob/main/Labs/20155658_PARCIAL%20(3).ipynb'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This project shows us some indicator like deads, infections and vacines of COVID 19 in Perú
