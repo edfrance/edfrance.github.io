@@ -10,4 +10,4 @@ paperurl: 'https://drive.google.com/file/d/18JXrgQbXKoLrfeDR_j7S53GnJXvc3veg/vie
 ---
 This project shows us some indicator like deads, infections and vacines of COVID 19 in Perú
 
-[Download paper here](https://drive.google.com/file/d/18JXrgQbXKoLrfeDR_j7S53GnJXvc3veg/view?usp=sharing)
+[Download paper here](https://github.com/edfrance/ECO224/blob/main/Labs/20155658_PARCIAL%20(3).ipynb)
