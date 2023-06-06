@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an eighth-semester student of Economics at the Pontificia Universidad Católica del Perú (PUCP). My main interests are chess, soccer, finance and data science.
+I am an nineth-semester student of Economics at the Pontificia Universidad Católica del Perú (PUCP). My main interests are chess, soccer, finance and data science.
