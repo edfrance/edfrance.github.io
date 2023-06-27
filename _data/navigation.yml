@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /CV/files/eljaer.pdf/
+    url: https://edfrance.github.io/files/eljaer.pdf
     
   #- title: "Guide"
   #  url: /markdown/
