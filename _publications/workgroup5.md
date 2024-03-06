@@ -1,13 +1,13 @@
 ---
-title: "Bootstrapping using unemployment databases"
+title: "Historica VaR, cVaR, and Montecarlo Simulation "
 collection: publications
 permalink: /publication/workgroup5
-excerpt: 'We work with unemployment database of USA. We are using bootstrapping method in order to get some interpretation of the some variables'
+excerpt: 'Historical VaR, cVar, and by Monte Carlo simulation of a $1,000,000 portfolio.'
 date: 2023-04-20
 venue: 'Github'
-paperurl: 'https://github.com/edfrance/ECO224/blob/main/Labs/Group6_lab5_python%20.ipynb'
+paperurl: 'https://github.com/edfrance/ECO224/blob/main/Labs/Historical%20VaR%2C%20cVaR%2C%20Montecarlo%20Simulation.ipynb'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-We work with countries characteristics database in order to test the convergence hypothesis using OLS, Double Lasso using CV, Double Lasso using HDM package, using partialling out approach
+I calculated the Historical VaR, cVar, and by Monte Carlo simulation of a $1,000,000 portfolio.
 
-[Download paper here](https://github.com/edfrance/ECO224/blob/main/Labs/Group6_lab5_python%20.ipynb)
+[Download paper here](https://github.com/edfrance/ECO224/blob/main/Labs/Historical%20VaR%2C%20cVaR%2C%20Montecarlo%20Simulation.ipynb)
