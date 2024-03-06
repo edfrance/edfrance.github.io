@@ -8,7 +8,7 @@ venue: 'Github'
 paperurl: 'https://github.com/edfrance/ECO224/blob/main/Labs/Group6_lab1_python_.ipynb](https://github.com/edfrance/ECO224/blob/main/Labs/Max_Return_Portfolio_Optimization.ipynb'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This replication is about the Mincer equation, if it actually works in US information (the relationship between education and wages)
+This script optimize a portfolio by maximizing the Sharpe Ratio. In addition, you can do the same to minimize Risk, use Black Litterman and Factor Model.
 
 [Download paper here](https://github.com/edfrance/ECO224/blob/main/Labs/Max_Return_Portfolio_Optimization.ipynb)
 
