@@ -1,8 +1,8 @@
 ---
-title: "Replication of Mincer Equation in US data"
+title: "Mean Variance Portfolio Optimization Short Sales"
 collection: publications
 permalink: /publication/workgroup2
-excerpt: 'This replication is about the Mincer equation in US data. Now, we are using Lasso approach.'
+excerpt: 'Optimize a portfolio by maximizing the Sharpe Ratio and using short sales strategy'
 date: 2023-05-25
 venue: 'Github'
 paperurl: 'https://github.com/edfrance/ECO224/blob/main/Labs/Group6_lab2_python.ipynb'
