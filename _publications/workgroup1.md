@@ -1,5 +1,5 @@
 ---
-title: "Mean Variancce Portfolio Optimization"
+title: "Mean Variance Portfolio Optimization"
 collection: publications
 permalink: /publication/workgroup1
 excerpt: 'Optimize a portfolio by maximizing the Sharpe Ratio'
